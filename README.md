@@ -1,6 +1,6 @@
 # csgo_cheat
 
-a easy and simple csgo cheat
+a easy and simple csgo external cheat
 </br>
 一个简单的csgo辅助
 
